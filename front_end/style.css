@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    height: 67vh;
+    width: 60vw;
+    margin-left: 18vw;
+    border: solid;
+    background-color: orange;
+    padding: 4vw;
+    border-radius: 15px;
+    border: none;
+    position: relative;
+}
+
+form {
+    position: absolute;
+    bottom: 0.5em;
+}
+
+input {
+    height: 7vh;
+    width: 46vw;
+    border-radius: 10px;
+    background-color: gray;
+    border: none;
+    font-size: 2em;
+    padding-left: 10px;
+}
+
+button {
+    height: 7vh;
+    width: 10vw;
+    margin-left: 2vw;
+    border-radius: 150px;
+    border: none;
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
