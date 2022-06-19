@@ -1,2 +1,2 @@
-# chatcord
+# chatapp
 chatCord website with socket.io
